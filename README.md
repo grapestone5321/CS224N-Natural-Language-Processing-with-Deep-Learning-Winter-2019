@@ -7,7 +7,7 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
 
 
-## Lecture 1 – Introduction and Word Vectors
+## Lecture 1: Introduction and Word Vectors
 
 Mar 12, 2019
 
@@ -58,7 +58,9 @@ Director, Stanford Artificial Intelligence Laboratory (SAIL)
 
 ## Lecture 16
 
-## Lecture 17
+## Lecture 17: Multitask Learning
+
+https://www.youtube.com/watch?v=M8dsZsEtEsg&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=18&t=145s
 
 ## Lecture 18
 
