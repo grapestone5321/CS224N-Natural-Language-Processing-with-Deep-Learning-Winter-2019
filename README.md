@@ -130,7 +130,7 @@ stanfordonline
 
 ### 17 1:11:54
 
-NLP with Deep Learning | Winter 2019 | Lecture 17 – Multitask Learning
+Multitask Learning
 
 
 18
