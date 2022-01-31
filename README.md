@@ -6,10 +6,8 @@ https://online.stanford.edu/artificial-intelligence/free-content?category=All&co
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
+For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit: https://stanford.io/3CORGu1
 
-
-For more information about Stanford’s Artificial Intelligence professional and graduate programs, visit
-: https://learn.stanford.edu/Social-AI-...
 
 stanfordonline
 
